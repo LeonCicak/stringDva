@@ -1,0 +1,7 @@
+C:\Users\Učenik\source\repos\string2\string2\obj\Debug\string2.csproj.AssemblyReference.cache
+C:\Users\Učenik\source\repos\string2\string2\obj\Debug\string2.csproj.CoreCompileInputs.cache
+C:\Users\Učenik\source\repos\string2\string2\bin\Debug\string2.exe.config
+C:\Users\Učenik\source\repos\string2\string2\bin\Debug\string2.exe
+C:\Users\Učenik\source\repos\string2\string2\bin\Debug\string2.pdb
+C:\Users\Učenik\source\repos\string2\string2\obj\Debug\string2.exe
+C:\Users\Učenik\source\repos\string2\string2\obj\Debug\string2.pdb
